@@ -1,10 +1,7 @@
 import './App.css';
 import Header from '../components/Header';
 import { Grid } from '@material-ui/core';
-import Draw from '../components/Draw';
 import Block1 from '../components/Block1';
-import Block2 from '../components/Block2';
-import block4 from '../components/block4';
 import Block5 from '../components/Block5';
 import Block6 from '../components/Block6';
 import Block7 from '../components/Block7';

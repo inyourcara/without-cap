@@ -17,7 +17,6 @@ function App() {
      <>
     
      <Grid item lg={12}item  container spacing={1} ><Block1 />
-     <Draw />
 
 
      <Grid item lg={12} sm={12} xs={12}> 
